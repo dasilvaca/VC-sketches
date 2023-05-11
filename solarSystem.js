@@ -14,7 +14,7 @@ function axis() {
 
 preload = () => {
     moon_texture = loadImage('moon_texture.jpg');
-    earth_texture = loadImage('unnamed.jpg');
+    earth_texture = loadImage('earth_texture.jpg');
     stars_texture = loadImage('stars_texture.jpg');
 }
 

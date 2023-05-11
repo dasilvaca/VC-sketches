@@ -44,7 +44,7 @@ function draw() {
     // Set the fill color to black
     fill(0);
     // Create a sphere with a radius of 50
-    sphere(50);
+    // sphere(50);
     // Restore the previous transformations
     pop();
 
